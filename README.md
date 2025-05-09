@@ -51,7 +51,7 @@ API Integration, Version Control, Data Modeling, UI/UX, Testing, Presentation
 Firebase, Authentication, Data Modeling, UI/UX, Testing, Presentation
 - *Samprat Sakhare:*
 API Integration, Authentication, UI/UX, Testing, Presentation
-*Each member contributed to design, implementation, and debugging.*
+- *Each member contributed to design, implementation, and debugging.*
 
 ## 📹 Demo Video
 *LINK*
