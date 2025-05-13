@@ -54,7 +54,7 @@ API Integration, Authentication, UI/UX, Testing, Presentation
 - *Each member contributed to design, implementation, and debugging.*
 
 ## 📹 Demo Video
-*LINK*
+*[Demo Video LINK](https://drive.google.com/file/d/17loUa7O5Szv0ldFrYc9uypZCzkbV0P2K/view)*
 
 ## 📄 References
 - [Firebase Documentation](https://firebase.google.com/docs)
